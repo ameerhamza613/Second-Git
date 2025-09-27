@@ -1,1 +1,1 @@
-util class for second git repository
+util class for second git repository version second
